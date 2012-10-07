@@ -1,7 +1,9 @@
 #!/bin/bash
 echo "deleting old contents"
-rm -rf *
+rm -rf blog/
+mkdir blog/
+cd blog/
 echo "unzipping and unpacking new contents"
-gunzip ../blog.gz
-tar -xvf blog.tar
+gunzip ../blog.tar.gz
+tar -xvf ../blog.tar
 echo "over and out..."
