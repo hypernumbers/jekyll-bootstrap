@@ -9,6 +9,4 @@ tar -xvf ../blog.tar
 # tidy up
 cd ../
 rm blog.tar
-rm blog/unpack_blog.sh
-rm blog/unload.sh
 echo "over and out..."
