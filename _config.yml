@@ -26,6 +26,10 @@ author :
 #
 production_url : http://blog.vixo.com
 
+# now configure prose.io to work with this site
+prose:
+        rooturl: "_posts"
+
 # All Jekyll-Bootstrap specific configurations are namespaced into this hash
 #
 JB :
