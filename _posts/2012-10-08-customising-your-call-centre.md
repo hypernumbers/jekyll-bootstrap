@@ -5,11 +5,12 @@ description: ""
 category:
 tags: ["Call Centre", "Introduction"]
 ---
+
 {% include JB/setup %}
 
 # Customising Your Call Centre #
 
-A number of people have said to me that they want to get on and customise the call centre but are a bit feart of breaking it - so here is a quick guide - in 5 steps.
+A number of people have said to me that they want to get on and customise the call centre but are a bit feart of breaking it - so here is a quick guide - in 5 simple steps.
 
 The basic call centre only has 42 functions in cells - but it packs a hell of a lot of power into such a little package. So hold onto your hat!
 
