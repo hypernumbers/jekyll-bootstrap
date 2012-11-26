@@ -1,4 +1,8 @@
 #!/bin/bash
+# make the site with google analytics
+cd /home/gordon/jekyll-blog/
+jekyll --safe
+# now tar and copy up the site
 cd /home/gordon/jekyll-blog/_site
 echo "tarring and zipping html"
 rm blog.tar.gz
